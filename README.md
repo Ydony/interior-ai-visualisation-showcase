@@ -12,11 +12,11 @@
 
 ## The story
 
-Designers draw kitchens and living rooms in a design program, but clients struggle to imagine the result from line drawings and flat colours. Realistic pictures usually mean hiring a rendering specialist and waiting days.
+Clients struggle to picture a room from design drawings, and realistic renders take a specialist and days of waiting.
 
-Interior AI Visualisation closes that gap. The designer takes a view of the room they already drew and gets back a realistic picture of the same room, with the same layout, in minutes. If the client wants a different cabinet colour or an extra lamp, the designer changes just that one thing and everything else stays exactly as it was.
+Interior AI Visualisation turns a view from the designer's own drawing into a realistic photo of the same room in minutes. Want a different cabinet colour or an extra lamp? Change just that one thing; everything else stays the same.
 
-The result: clients see their future room before anything is built, decisions happen in one meeting instead of three, and the designer never leaves their own tools.
+Clients see the finished room before anything is built, and decide faster.
 
 ## What it does
 
