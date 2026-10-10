@@ -1,8 +1,6 @@
 # Interior AI Visualisation
 
-**Turns an interior design into a photo-like picture of the finished room, then lets you change one thing at a time.**
-
-For interior designers, kitchen studios and furniture makers who want to show a client what the room will really look like before anything is built, without hiring a rendering specialist or waiting days for a picture.
+**Turns an interior design into a photo-like picture of the finished room.**
 
 **Status:** working prototype, tested on a sample kitchen.
 
@@ -12,37 +10,31 @@ For interior designers, kitchen studios and furniture makers who want to show a 
 `▓▓▓▓▓▓░░░░ 57% (24/42 tasks)`
 <!-- progress:end -->
 
-## Results so far
+## The story
 
-Tested on a sample kitchen made for this project (no client designs):
+Designers draw kitchens and living rooms in a design program, but clients struggle to imagine the result from line drawings and flat colours. Realistic pictures usually mean hiring a rendering specialist and waiting days.
 
-- A design view becomes a realistic picture of the same room, with the same layout.
-- One part of the room can be changed, for example the cabinet colour, while walls, floor, worktop and lighting stay exactly as they were.
-- New items can be added, for example pendant lamps over the island, with matching light in the room.
+Interior AI Visualisation closes that gap. The designer takes a view of the room they already drew and gets back a realistic picture of the same room, with the same layout, in minutes. If the client wants a different cabinet colour or an extra lamp, the designer changes just that one thing and everything else stays exactly as it was.
 
-## Roadmap
+The result: clients see their future room before anything is built, decisions happen in one meeting instead of three, and the designer never leaves their own tools.
 
-**Done**
-- Realistic picture from a design view
-- First realistic surfaces (worktop, cabinets)
-- Change one part of the room and keep the rest
-- Add new items to the room
+## What it does
 
-**Next**
-- Side-by-side quality comparison of picture options
+- Turns a design view into a realistic picture of the same room
+- Changes one part of the room, such as cabinet colour, and keeps the rest
+- Adds new items, such as pendant lamps, with matching light
+- Runs on the designer's own computer, so designs stay private
+
+## Future plans
+
+- Side-by-side comparison of picture options
 - Click an item in the picture and leave a comment
 - Easy undo of a change
 - Better material guesses from reference photos
-
-**Later**
-- Automatic starting materials
 - Move through the whole house and pick the view
-- Upload mixed reference photos without labelling them
 - Product names and links for items in the picture
 - More lighting moods and sharper 4K pictures
-- Reopen a project and keep editing
 - Several rooms in one go
-- Automatic quality check of every picture
 
 ---
 
