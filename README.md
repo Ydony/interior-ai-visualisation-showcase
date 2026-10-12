@@ -2,12 +2,12 @@
 
 **Turns an interior design into a photo-like picture of the finished room.**
 
-**Status:** working prototype, tested on a sample kitchen.
+**Status:** working prototype with its own easy-to-use app, tested on a sample kitchen.
 
 <!-- progress:start -->
-![progress](https://img.shields.io/badge/progress-57%25-2ea44f)
+![progress](https://img.shields.io/badge/progress-63%25-2ea44f)
 
-`▓▓▓▓▓▓░░░░ 57% (24/42 tasks)`
+`▓▓▓▓▓▓░░░░ 63% (51/81 tasks)`
 <!-- progress:end -->
 
 ## The story
@@ -24,10 +24,15 @@ Clients see the finished room before anything is built, and decide faster.
 - Changes one part of the room, such as cabinet colour, and keeps the rest
 - Adds new items, such as pendant lamps, with matching light
 - Runs on the designer's own computer, so designs stay private
+- Compares picture options side by side
+- Starts from the designer's drawing in one click
+- Suggests a material for each surface and remembers the project
+- Simple app with a picture-first workspace in three steps
 
 ## Future plans
 
-- Side-by-side comparison of picture options
+- Painted surfaces keep their original colour
+- A design library that learns from every new design
 - Click an item in the picture and leave a comment
 - Easy undo of a change
 - Better material guesses from reference photos
